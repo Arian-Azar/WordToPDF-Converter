@@ -1,0 +1,36 @@
+
+
+
+# محیط مجاز / Virtual Environment
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# فایل‌های پایتون / Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# فایل‌های خروجی / Output files
+*.pdf
+*.docx.pdf
+PDF_Output/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# فایل‌های سیستمی / System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
