@@ -38,13 +38,14 @@
 ---
 
 ## 📋 پیش‌نیازها / Prerequisites
-
+---
 ### ویندوز / Windows:
 - **Windows 7, 8, 10, or 11**
 - **Microsoft Word** (2010 or later) - Required for conversion
 - **Python 3.7 or higher**
 - **Internet connection** (for first-time setup)
-
+---
+---
 ### لینوکس / Linux:
 - **Ubuntu 18.04+, Debian 10+, Fedora 32+, or similar**
 - **Microsoft Word** (via Wine) OR **LibreOffice** (alternative method)
@@ -59,7 +60,7 @@
 
 ### مرحله 1: نصب پایتون / Step 1: Install Python
 
-#### ویندوز / Windows:
+#### ویندوز /  linux / Windows:
 ```bash
 # Download Python from python.org
 # Or install via Chocolatey:
